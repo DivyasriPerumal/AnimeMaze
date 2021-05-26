@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+body{
+    background-color: #080808;
+}
+#content1{
+    width:20%;
+height:600px;
+background-color: #dfd8de;
+margin-top: 50px;
+margin-left:14%;
+float:left;
+}
+#content2{
+    width:50%;
+    height: 270px;
+    background-color: #080808;
+    margin-top: 50px;
+    float:right;
+    margin-right: 10%;
+}
+#content3
+{
+    width:50%;
+    height: 330px;
+    background-color:#fec3d7;
+
+    float:right;
+    margin-right: 10%;
+
+}
+.Picture{
+    font-size:35px;
+font-family: 'roboto', sans-serif;
+color: #080808;
+font-weight: 100;
+margin-top: 250px;
+text-align: center;
+
+}
+.Title{
+    font-size: 40px;
+    font-family: 'Oleo Script', cursive;
+    color: #dfd8de;
+    margin-top:10px;
+    
+}
+.Para{
+    font-size: 30px;
+    font-family:'Oleo Script', cursive;
+    color: #dfd8de;
+    margin-top:20px;
+}
+.Episodes{
+    font-size: 22px;
+    font-family: 'Oleo Script', cursive;
+    color: #080808;
+    margin-left:30px;
+    
+}
+.Score{
+    font-size: 22px;
+    font-family: 'Oleo Script', cursive;
+    color: #080808;
+    margin-left:30px;
+}
+.Type{
+    font-size: 22px;
+    font-family: 'Oleo Script', cursive;
+    color: #080808;
+    margin-left:30px;
+}
+.start{
+    font-size: 22px;
+    font-family: 'Oleo Script', cursive;
+    color: #080808;
+    float:left;
+    margin-left:30px;
+    
+    margin-top:80px;
+
+}
+.End{
+    font-size: 22px;
+    font-family: 'Oleo Script', cursive;
+    color: #080808;
+    float:right;
+    margin-top:80px;
+    margin-right: 30px;
+    
+}

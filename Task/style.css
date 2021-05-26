@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body
+{
+background-color:#080808;
+}
+h1
+{
+color:#ffffff;
+text-align:center;
+font-family:'Roboto', sans-serif;
+
+font-size: 50px;
+}
+.dropdown
+{
+color:#dfd8de;
+font-family:'Roboto', sans-serif;
+font-size: 150%;
+margin-left: 15%;
+margin-top: 80px;
+}
+.dropdown select {
+  padding:10px 40px;
+  background-color: #dfd8de;
+  font-size: 55%;
+  font-family:'Roboto', sans-serif;
+  border-radius: 5%;
+  
+  
+
+
+}
+#content1
+{
+width:33%;
+height:450px;
+background-color: #dfd8de;
+margin-top: 50px;
+margin-left:10%;
+float:left;
+border-radius: 5%;
+
+
+}
+#content2
+{
+width:40%;
+height:503px;
+background-color: #afb0cf;
+margin-top: auto;
+margin-right: 10%;
+float:right;
+border-radius: 5%;
+
+}
+
